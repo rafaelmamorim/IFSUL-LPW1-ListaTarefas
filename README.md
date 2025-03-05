@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Sistema de tarefas a fazer
+# Sistema de lista de tarefas
 
 Repositório criado para mostrar uma aplicação de atividades a fazer da disciplina de Linguagem de programação para Web I, do curso de Técnico de Informática para Internet do
 Instituto Federal Sul Riograndense (IFSul), [Campus Santana do Livramento](http://www.santana.ifsul.edu.br/).
